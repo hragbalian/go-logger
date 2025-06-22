@@ -1,4 +1,4 @@
-module github.com/hragbalian/go-logger
+module go-logger
 
 go 1.24
 
