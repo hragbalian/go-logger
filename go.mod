@@ -1,6 +1,6 @@
 module github.com/hragbalian/go-logger
 
-go 1.21
+go 1.24
 
 require (
 	github.com/fatih/color v1.13.0
